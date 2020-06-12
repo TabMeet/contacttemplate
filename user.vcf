@@ -7,6 +7,6 @@ EMAIL;type=INTERNET;type=WORK;type=pref:losjacob17@gmail.com
 TEL;type=WORK;type=VOICE:+31 6 45302534
 item1.ADR;type=WORK;type=pref:;;Oevergriend 96, 1356EG, Almere
 item1.X-ABADR:sg
-item2.URL;type=pref:Oevergriend 96, 1356EG, Almere
+item2.URL;type=pref:
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
