@@ -1,14 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Sjoerd;Jonkman;;;
-FN: Sjoerd  Jonkman 
-ORG:OneWorld Media;
-TITLE:CEO
-EMAIL;type=INTERNET;type=WORK;type=pref:sjoerdrobertjonkman@gmail.com
-TEL;type=WORK;type=VOICE:+31 6 55721291
-item1.ADR;type=WORK;type=pref:;;Comming Soon
+N:Jacob;Los;;;
+FN: Jacob  Los 
+EMAIL;type=INTERNET;type=WORK;type=pref:losjacob17@gmail.com
+TEL;type=WORK;type=VOICE:+31 6 45302534
+item1.ADR;type=WORK;type=pref:;;Oevergriend 96, 1356EG, Almere
 item1.X-ABADR:sg
-item2.URL;type=pref:Comming Soon
+item2.URL;type=pref:Oevergriend 96, 1356EG, Almere
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
