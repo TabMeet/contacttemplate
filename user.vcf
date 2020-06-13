@@ -1,8 +1,8 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Jacob;Los;;;
-FN: Jacob  Los 
-EMAIL;type=INTERNET;type=WORK;type=pref:losjacob17@gmail.com
-TEL;type=WORK;type=VOICE:+31 6 45302534
+N:FIRSTN;LASTN;;;
+FN: FIRSTN  LASTN 
+EMAIL;type=INTERNET;type=WORK;type=pref:EMAIL HERE
+TEL;type=WORK;type=VOICE:PHONE NUMBER HERE
 END:VCARD
